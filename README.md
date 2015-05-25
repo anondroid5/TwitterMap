@@ -19,7 +19,7 @@ I try and try again in order to visualize that information.
 * node.js >= v0.12.4
 * npm >= v1.4.9
 
-Please install this Libraries.
+Please install this libraries.
 ```
 npm install ntwitter
 ```
