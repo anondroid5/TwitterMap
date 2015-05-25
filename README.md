@@ -53,4 +53,4 @@ This library tested on
 Fmihiko Akagi
 
 # Copyright
-Copyright (c) 2015 Fumihiko Akagi
+Copyright (c) 2014 Fumihiko Akagi
