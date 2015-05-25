@@ -12,6 +12,8 @@ GoogleMapsAPIv3
 #Ideas
 Twitter contain a myriad of information about what people are doing and watching. 
 
+I try and try again inorder to visualize that information.
+
 
 # Requirements
 * node.js >= v0.12.4
