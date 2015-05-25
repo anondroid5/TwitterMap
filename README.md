@@ -21,6 +21,14 @@ npm install socket.io
 npm install express
 ```
 
+# Usage
+
+```
+node server.js
+```
+
+
+
 # Environment
 This library tested on
 - Google Chrome 42
