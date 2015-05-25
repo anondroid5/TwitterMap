@@ -56,4 +56,5 @@ Fumihiko Akagi
 
 # Copyright
 Copying and Using this source codes are NOT allowed to be used without permission.
+
 Copyright (c) 2014 Fumihiko Akagi
