@@ -37,6 +37,8 @@ node server.js
 # Environment
 This library tested on
 - Google Chrome 42
+- Mozilla Firefox 38.0.1
+- IE11
 
 
 # Author
