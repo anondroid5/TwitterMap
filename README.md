@@ -55,6 +55,6 @@ This library tested on
 Fumihiko Akagi
 
 # Copyright
-Copying and Using this source codes are NOT allowed to be used without permission.
+You can Not copy and use this source codes without permission.
 
 Copyright (c) 2014 Fumihiko Akagi
