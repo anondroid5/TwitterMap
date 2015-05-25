@@ -52,7 +52,7 @@ This library tested on
 
 
 # Author
-Fmihiko Akagi
+Fumihiko Akagi
 
 # Copyright
 Copyright (c) 2014 Fumihiko Akagi
