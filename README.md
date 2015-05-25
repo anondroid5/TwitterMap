@@ -32,6 +32,10 @@ npm install express
 node server.js
 ```
 
+Access following a local loopback address.
+
+localhost:5000 or 127.0.0.1:5000
+
 
 
 # Environment
