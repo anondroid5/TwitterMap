@@ -43,3 +43,6 @@ This library tested on
 
 # Author
 Fmihiko Akagi
+
+# Copyright
+Copyright (c) 2015 Fumihiko Akagi
