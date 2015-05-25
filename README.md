@@ -10,7 +10,7 @@ GoogleMapsAPIv3
 <img src="./Raw/images/twittermap.gif" alt="twittermap">
 
 #Ideas
-
+Twitter contain a myriad of information about what people are doing and watching. 
 
 
 # Requirements
