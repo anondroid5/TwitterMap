@@ -1,8 +1,8 @@
 var keys = {
-  consumer_key: 'dh8kDj98CtO7lZNPA5xRLw',
-  consumer_secret: 'qiUhfh5kwJrE8EWqjHFbG8EKwio1d8KPX4gE9yeGY',
-  access_token_key: '1598997848-EyVYgiPfpp9YUA0bUUXzTCUpsZyuSYIMpzfrFnG',
-  access_token_secret: 'rHbEFVcRJp31QcvkzOjbEaOrYZrKfqSNt644X2b8kVd4V'
+  consumer_key: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  consumer_secret: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  access_token_key: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  access_token_secret: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 };
 
 exports.getKeys = function() {
