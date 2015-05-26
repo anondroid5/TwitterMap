@@ -23,7 +23,7 @@ t.stream('statuses/filter', {'locations': '130.6494140625,31.42866311735861,145.
     if (data.coordinates) {
       //console.log(data);
       io.sockets.emit('message', {
-        'id': data.id_str,
+        'id': data.user.id_str,
         'text': data.text,
         'lnglat': data.coordinates.coordinates,
         'sname': data.user.screen_name,
