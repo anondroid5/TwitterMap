@@ -1,5 +1,5 @@
 # TwitterMap
-[![node](https://img.shields.io/node/v/gh-badges.svg)]()
+[![node](https://img.shields.io/node/v0.12.x/gh-badges.svg)]()
 [![npm](https://img.shields.io/npm/v/npm.svg)]()
 
 node.js
