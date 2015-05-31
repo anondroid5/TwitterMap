@@ -1,4 +1,7 @@
 # TwitterMap
+[![node](https://img.shields.io/node/v/gh-badges.svg)]()
+[![npm](https://img.shields.io/npm/v/npm.svg)]()
+
 node.js
 
 socket.io
