@@ -19,8 +19,8 @@ I try and try again in order to visualize that information.
 
 
 # Requirements
-* node.js >= v0.12.4
-* npm >= v1.4.9
+* node.js >= v0.12.x
+* npm >= v1.4.x
 
 Please install this libraries.
 ```
