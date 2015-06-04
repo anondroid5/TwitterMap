@@ -60,6 +60,5 @@ This library tested on
 Fumihiko Akagi
 
 # Copyright
-You can Not copy and use this source codes without permission.
 
 Copyright (c) 2014 Fumihiko Akagi
