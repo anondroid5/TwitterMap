@@ -52,7 +52,7 @@ localhost:5000 or 127.0.0.1:5000
 # Environment
 This library tested on
 - Google Chrome 42
-- Mozilla Firefox 38.0.1
+- Mozilla Firefox 38
 - IE11
 
 
