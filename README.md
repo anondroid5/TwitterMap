@@ -1,6 +1,4 @@
 # TwitterMap
-[![node](http://img.shields.io/badge/node-v0.12.x-green.svg)]()
-[![npm](http://img.shields.io/badge/npm-v1.4.x-blue.svg)]()
 
 node.js
 
