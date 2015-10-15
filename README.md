@@ -10,12 +10,6 @@ GoogleMapsAPIv3
 
 <img src="./Raw/images/twittermap.gif" alt="twittermap">
 
-#Ideas
-Twitter contain a myriad of information about what people are doing and watching. 
-
-I try and try again in order to visualize that information.
-
-
 # Requirements
 * node.js >= v0.12.x
 * npm >= v1.4.x
