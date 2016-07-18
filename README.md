@@ -49,8 +49,8 @@ This library tested on
 
 
 # Author
-Fumihiko Akagi
+Fumihiko Akaki
 
 # Copyright
 
-    Copyright (c) 2014 Fumihiko Akagi
+    Copyright (c) 2014 Fumihiko Akaki
